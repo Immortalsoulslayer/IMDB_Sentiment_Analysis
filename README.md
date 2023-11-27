@@ -26,7 +26,7 @@
 
 ## Results
 
-**The model was able to obtain 92% accuracy in sentiment analysis of reviews.**
+**The model was able to obtain 93% accuracy in sentiment analysis of reviews.**
 
 ## License
 
